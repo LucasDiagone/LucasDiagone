@@ -12,7 +12,7 @@ Analista de Dados com experiência em indicadores, performance operacional e mel
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias & Ferramentas
 
 **Data & BI**  
 Python • SQL • Power BI • Pandas • EDA • ETL  
@@ -25,7 +25,7 @@ LangChain • RAG • Agents • FAISS • Prompt Engineering
 
 ---
 
-### 📫 How to reach me
+### 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/lucas-diagone-691285104/  
 - GitHub: https://github.com/LucasDiagone  
