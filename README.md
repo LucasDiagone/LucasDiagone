@@ -5,7 +5,7 @@ Analista de Dados com experiência em indicadores, performance operacional e mel
 ---
 
 - 🔭 Atualmente desenvolvendo projetos com Data Science, RAG e AI Agents  
-- 🌱 Estudando LLMs, Retrieval-Augmented Generation e aplicações com LangChain  
+- 🌱 Estudando NLP,LLMs, Retrieval-Augmented Generation e aplicações com LangChain  
 - 🤖 Interesse em IA aplicada à análise e interpretação de dados  
 - 📊 Experiência com Python, SQL e Power BI  
 - 🧠 Conhecimentos em Machine Learning e Estatística aplicada  
