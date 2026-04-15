@@ -1,14 +1,17 @@
 🚀 **Sobre mim**
 
-Analista de Dados com experiência em indicadores, performance operacional e melhoria de processos, atuando com Python, SQL e Power BI na geração de insights e suporte à tomada de decisão orientada a dados.
+Tenho background em negócios e fiz transição para dados combinando
+análise, automação e LLMs. Meu projeto mais recente processa
+48 mil pedidos, gera insights automáticos por IA todo dia e
+disponibiliza um chatbot que responde perguntas sobre vendas
+em linguagem natural.
 
 ---
 
-- 🔭 Atualmente desenvolvendo projetos com Data Science, RAG e AI Agents  
-- 🌱 Estudando NLP,LLMs, Retrieval-Augmented Generation e aplicações com LangChain  
-- 🤖 Interesse em IA aplicada à análise e interpretação de dados  
-- 📊 Experiência com Python, SQL e Power BI  
-- 🧠 Conhecimentos em Machine Learning e Estatística aplicada  
+🔭 Trabalhando com: Data Pipelines · AI Agents · RAG · Power BI
+🌱 Estudando: LLMs, LangChain, NLP 
+🧠 Conhecimentos em Machine Learning e Estatística aplicada
+📍 São Carlos, SP — aberto a oportunidades remotas
 
 ---
 
