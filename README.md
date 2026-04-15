@@ -1,6 +1,6 @@
 🚀 **Sobre mim**
 
-Analista de Dados & AI | Pipelines em produção com LLMs, Power BI e n8n
+#Analista de Dados & AI | Pipelines em produção com LLMs, Power BI e n8n
 
 Tenho background em negócios e fiz transição para dados combinando
 análise, automação e LLMs. Meu projeto mais recente processa
