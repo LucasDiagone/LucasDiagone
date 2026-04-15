@@ -8,10 +8,10 @@ em linguagem natural.
 
 ---
 
--🔭 Trabalhando com: Data Pipelines · AI Agents · RAG · Power BI
--🌱 Estudando: LLMs, LangChain, NLP 
--🧠 Conhecimentos em Machine Learning e Estatística aplicada
--📍 São Carlos, SP — aberto a oportunidades remotas
+- 🔭 Trabalhando com: Data Pipelines · AI Agents · RAG · Power BI
+- 🌱 Estudando: LLMs, LangChain, NLP 
+- 🧠 Conhecimentos em Machine Learning e Estatística aplicada
+- 📍 São Carlos, SP — aberto a oportunidades remotas
 
 ---
 
